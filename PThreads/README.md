@@ -1,6 +1,3 @@
-Here's your README reformatted with proper Markdown syntax, headers, subheaders, and code blocks for easy copy-paste:
-
----
 
 # Simple Producer-Consumer C Program with Timed Thread Creation
 
@@ -104,6 +101,3 @@ To run with 7 producers and 7 consumers:
 * The program uses `usleep()` for timed thread creation and `sleep()` in `main()` to let detached threads run briefly.
 * For production use, consider implementing more robust shutdown and synchronization mechanisms.
 
----
-
-Let me know if you'd like me to generate this into a downloadable README.md file.
