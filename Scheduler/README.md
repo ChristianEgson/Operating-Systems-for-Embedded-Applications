@@ -1,6 +1,3 @@
-Here is a properly formatted and structured README in Markdown format for your **Multi-Level Feedback Queue (MLFQ) Scheduling Program** — ready to copy and paste:
-
----
 
 # Simple MLFQ Scheduling Program in C
 
@@ -127,6 +124,3 @@ You can easily modify:
 * This is intended as a **learning tool**, not a production-grade scheduler.
 * All memory allocations via `malloc` are freed upon process completion.
 
----
-
-Let me know if you'd like a downloadable version of this README or help integrating this into your project structure (e.g., in a GitHub repository).
