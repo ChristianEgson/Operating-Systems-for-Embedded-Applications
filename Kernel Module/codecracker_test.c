@@ -66,6 +66,3 @@ int main()
     close(fd);
     return 0;
 }
-
-//gcc codecracker_test.c
-// ./a.out
