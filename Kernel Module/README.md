@@ -1,6 +1,3 @@
-Here's a properly structured and formatted **README** for your **CodeCracker Linux Kernel Module and User-Space Game**, written in Markdown and ready for copy-paste:
-
----
 
 # 🔐 CodeCracker — Linux Kernel Module Game
 
