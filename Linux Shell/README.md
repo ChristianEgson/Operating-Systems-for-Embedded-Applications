@@ -1,6 +1,3 @@
-Here's a clean and properly formatted **README** in Markdown for your **Custom Linux Shell Program**, ready for copy-paste:
-
----
 
 # Simple Custom Linux Shell in C
 
@@ -110,7 +107,3 @@ rizz: use this command if you're single and ready to mingle
 
 * This shell does **not** support piping, argument parsing, or background execution.
 * Fun and creative commands like `oops` and `quote` add personality to the shell.
-
----
-
-Let me know if you'd like a version of this README exported as a `.md` file, or assistance adding new commands or features to the shell!
