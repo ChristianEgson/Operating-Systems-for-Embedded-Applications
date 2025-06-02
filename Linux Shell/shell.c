@@ -126,7 +126,7 @@ void helpScreenPrint(){
       "d/t: to produce current local date & time\n"
       "createf: create a file within current directory\n"
       "oops: call this command only under dire circumstances\n"
-      "rizz: use this command if you're single and ready to mingle\n");
+      "quote: use this command if you're single and ready to mingle\n");
 
 }
 
